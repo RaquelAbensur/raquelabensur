@@ -45,7 +45,7 @@ ___
 <div>
   <p align="left">
     <a href= "https://github.com/RaquelAbensur">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=raquelabensur&theme=moltack&show_icons=true">
-    <img height="180cm" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=raquelabensur&theme=blood&hide_border=true&date_format=j%20M%5B%20Y%5D&border=920741&background=FFF0D4&ring=920741&fire=EF5548)](https://git.io/streak-stats"/>
+    <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=raquelabensur&theme=moltack&show_icons=true">
+    <img height="120cm" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=raquelabensur&theme=blood&hide_border=true&date_format=j%20M%5B%20Y%5D&border=920741&background=FFF0D4&ring=920741&fire=EF5548)](https://git.io/streak-stats"/>
       </p>
     </div>
