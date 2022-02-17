@@ -1,6 +1,6 @@
 <!--[![banner-git-hub.png](https://i.postimg.cc/7Yg8FrtG/banner-git-hub.png)](https://github.com/RaquelAbensur)-->
 
-### <p align="center"> Oii, eu sou a Raquel Abensur ![](name-of-giphy.gif)"https://i.postimg.cc/3RJHy3Xk/cat-bubble.gif)](https://postimg.cc/v1jKkFSy"
+### <p align="center"> Oii, eu sou a Raquel Abensur ![cat bubble](https://user-images.githubusercontent.com/84873508/154545565-028635a1-5a5c-493b-a8b1-0a415d11969c.gif)
 </p>
 
 ___
