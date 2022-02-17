@@ -8,7 +8,7 @@ ___
 
 <div>
   <p>
-  <img height="260cm" align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=21dp3xcg7ugsim6bf634s7pqi">
+  <img height="250cm" align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=21dp3xcg7ugsim6bf634s7pqi">
      <img align="right" height="130cm"  src="https://i.postimg.cc/sgNsbzKR/cat-coffe.gif)](https://postimg.cc/JsZfB99T">
     <p align="center"> 
      Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e principalmente gatos.
