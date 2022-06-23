@@ -16,7 +16,7 @@ ___
 
   ____
   
-    🔘Tenho 17 anos e moro em Sorocaba-SP
+    🔘Tenho 18 anos e moro em Sorocaba-SP
     🔘Estou cursando na faculdade de tecnologia FIAP
     🔘Tenho interesse em arte e música
     🔘Sei o básico das linguagens c++ e html
