@@ -1,6 +1,6 @@
 <!--[![banner-git-hub.png](https://i.postimg.cc/7Yg8FrtG/banner-git-hub.png)](https://github.com/RaquelAbensur)-->
 
-## <p align="center"> Oii, eu sou a Raquel Abensur<img align="center" height="60cm" src="https://i.postimg.cc/3RJHy3Xk/cat-bubble.gif)](https://postimg.cc/v1jKkFSy">
+## <p align="center"> Oii, bom dia!<img align="center" height="60cm" src="https://i.postimg.cc/3RJHy3Xk/cat-bubble.gif)](https://postimg.cc/v1jKkFSy">
   </p>
 
 ___
@@ -15,11 +15,9 @@ ___
   </p>
 
   ____
-  
-    🔘Tenho 18 anos e moro em Sorocaba-SP
-    🔘Estou cursando na faculdade de tecnologia FIAP
-    🔘Tenho interesse em arte e música
-    🔘Sei o básico das linguagens c++ e html
+
+    🔘Cursando na faculdade de tecnologia FIAP
+    🔘Sei o básico das linguagens python e java
     🔘Uso frequentemente Sony Vegas para edição de podcasts
     🔘Utilizo Photoshop para trabalho
     
