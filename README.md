@@ -1,6 +1,6 @@
 <!--[![banner-git-hub.png](https://i.postimg.cc/7Yg8FrtG/banner-git-hub.png)](https://github.com/RaquelAbensur)-->
 
-## <p align="center"> Oii, bom dia!<img align="center" height="60cm" src="https://i.postimg.cc/3RJHy3Xk/cat-bubble.gif)](https://postimg.cc/v1jKkFSy">
+## <p align="center"> Oii, bom dia!<img align="center" height="60cm"
   </p>
 
 ___
