@@ -7,7 +7,7 @@ ___
 
 <div>
   <p>
-  <img height="235cm" align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=21dp3xcg7ugsim6bf634s7pqi">
+  <img height="235cm" align="left" src=[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dp3xcg7ugsim6bf634s7pqi&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)>
      <img align="right" height="125cm"  src="https://i.postimg.cc/sgNsbzKR/cat-coffe.gif)](https://postimg.cc/JsZfB99T">
     <p align="center"> 
      Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e principalmente gatos.
